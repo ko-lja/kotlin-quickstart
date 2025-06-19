@@ -1,6 +1,6 @@
 # kotlin-quickstart
 
-Ever wanted to try kotlin but didn't want to read countless docs just to know how to get started? Well then this post is for you!
+Ever wanted to try kotlin but didn't want to read countless docs just to know how to get started? Well then this ~~post~~ is for you!
 I will try to leave examples where i can, if you think i forgot something, don't hesitate to ping me!
 ## Properties
 The `val` keyword declares a field as public final, meaning it cannot be reassigned after initialization
